@@ -194,6 +194,7 @@
   <priority msgstream="XSecAlgMap">            NOTICE </priority>
   <priority msgstream="XSecSplLst">            NOTICE </priority>
   <priority msgstream="ZExpAxialFormFactorModel"> NOTICE </priority>
+  <priority msgstream="ZExpELFormFactorModel"> NOTICE </priority>
 
   <priority msgstream="gevgen">              NOTICE </priority>
   <priority msgstream="gevgen_dm">           NOTICE </priority>
