@@ -4,6 +4,8 @@ First Commit: Printing Z-expansion axial form factors as a function of Q^2, FA(Q
 
 Second Commit: Added the new code for Z-expansion vector form factors, the files ``ZExpELFormFactorModel.cxx'' and ``ZExpELFormFactorModel.h''
 
+Third Commit: Added the configuration file - ``ZExpELFormFactorModel.xml"
+
 # The GENIE Event Generator
 
 The GENIE Generator product is an advanced physics simulation used by nearly all modern neutrino experiments and 
