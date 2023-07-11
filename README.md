@@ -6,7 +6,9 @@ Second Commit: Added the new code for Z-expansion vector form factors, the files
 
 Third Commit: Added the configuration file - ``ZExpELFormFactorModel.xml``
 
-Fourth Commit: Linking via other .xml files
+Fourth Commit: Linking via other ``.xml`` files
+
+Fifth Commit: The tune ``G18_10i_02_11a`` was used for Z-expansion vector form factors
 
 # The GENIE Event Generator
 
