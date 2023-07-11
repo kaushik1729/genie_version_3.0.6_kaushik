@@ -2,7 +2,7 @@
 
 First Commit: Printing Z-expansion axial form factors as a function of Q^2, FA(Q2) 
 
-
+Second Commit: Added the new code for Z-expansion vector form factors, the files ``ZExpELFormFactorModel.cxx'' and ``ZExpELFormFactorModel.h''
 
 # The GENIE Event Generator
 
