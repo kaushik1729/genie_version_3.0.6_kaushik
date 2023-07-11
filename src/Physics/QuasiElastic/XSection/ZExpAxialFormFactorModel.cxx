@@ -242,6 +242,17 @@ void ZExpAxialFormFactorModel::LoadConfig(void)
   }
 
   this->FixCoeffs();
+    
+  // to print Axial Form Factors as a function of Q^2, FA(Q^2)
+  Interaction * interaction = new Interaction();
+  for (int i=0; i<10; i++){
+      double Q2 = i*0.1;
+      interaction->KinePtr()->SetQ2(Q2);
+      LOG("some_identifying_string",pWARN)
+                << "Q2 =" << Q2
+                << " : FA(Q2) = " <<  this->FA(interaction);
+      }
+  delete interaction;
 }
 //____________________________________________________________________________
 
